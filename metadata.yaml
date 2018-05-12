@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39236
     wikipedia: http://en.wikipedia.org/wiki/G._H._Hardy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38769#A-Course-of-Pure-MathematicsThird-Edition
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2012-02-05'
 gutenberg_type: Text
