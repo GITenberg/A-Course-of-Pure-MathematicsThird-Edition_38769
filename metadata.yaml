@@ -1,0 +1,32 @@
+_repo: A-Course-of-Pure-MathematicsThird-Edition_38769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, G. H. (Godfrey Harold)
+    alias: Hardy, Godfrey Harold
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '39236'
+    url: http://www.gutenberg.org/2009/agents/39236
+    wikipedia: http://en.wikipedia.org/wiki/G._H._Hardy
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2012-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Functions'
+- !lcsh 'Calculus'
+- !lcc 'QA'
+title: 'A Course of Pure Mathematics
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/38769
